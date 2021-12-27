@@ -1,0 +1,26 @@
+---
+SSIDs:
+  - name: Internal
+    BSSID: McDonalds
+    Hidden: Yes
+    APs:
+      - A
+      - B
+      - C
+    Security:
+      - WPA
+      - Key: XXXXX
+    Certificates:
+      - url: https://wwww....
+
+  - name: customers 
+    BSSID: McDonalds Customers
+    Hidden: Yes
+    APs:
+      - B
+      - C
+    Security:
+      - Open
+    Certificates:
+      - url: https://wwww....
+
