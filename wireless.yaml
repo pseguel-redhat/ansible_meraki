@@ -24,3 +24,14 @@ SSIDs:
     Certificates:
       - url: https://wwww....
 
+  - name: partners
+    BSSID: McDonalds Partners
+    Hidden: Yes
+    APs:
+      - B
+      - C
+    Security:
+      - WPA
+      - Key: XXXX
+    Certificates:
+      - url: https://wwww....
