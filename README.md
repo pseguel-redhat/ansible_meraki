@@ -2,4 +2,4 @@
 
 Tests for Meraki Ansible use cases.
 
-1
+So far, configuring SSID works
